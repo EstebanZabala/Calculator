@@ -1,0 +1,19 @@
+C:\Users\issei\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\issei\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\issei\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\issei\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\issei\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\issei\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\issei\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\issei\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\issei\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+W:\Desktop 2021\Carpeta X\Tareas\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+W:\Desktop 2021\Carpeta X\Tareas\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+W:\Desktop 2021\Carpeta X\Tareas\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+W:\Desktop 2021\Carpeta X\Tareas\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+W:\Desktop 2021\Carpeta X\Tareas\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+W:\Desktop 2021\Carpeta X\Tareas\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+W:\Desktop 2021\Carpeta X\Tareas\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+W:\Desktop 2021\Carpeta X\Tareas\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+W:\Desktop 2021\Carpeta X\Tareas\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+W:\Desktop 2021\Carpeta X\Tareas\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
